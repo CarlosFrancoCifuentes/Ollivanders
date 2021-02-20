@@ -1,6 +1,6 @@
 # Olivanders
 
-Ollivanders es una tienda de objetos mágicos que actulizan su calidad de distintas maneras. Con este proyecto haremos que esa actualización sea de manera automática.
+Ollivanders es una tienda de objetos mágicos que actualizan su calidad de distintas maneras. Con este proyecto haremos que esa actualización sea de manera automática.
 
 La clase Item no se puede modificar!
 
