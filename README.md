@@ -33,4 +33,4 @@ Una vez llega la fecha de "caducidad", la calidad cae a 0.
 
 ## ConjuredItem
 
-Los items conjurados se degradan dos veces más rápido que los normalItem.
+Los items conjurados se degradan dos veces más rápido que los normalItem y no forman parte de los normalItem, son otro tipo de item.
